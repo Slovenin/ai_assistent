@@ -2,6 +2,7 @@
 Ремонт, обслуживание и диагностика автомобилей — быстро, точно и удобно
 ссылка на проект- https://t.me/avtoznatok_bot
 
+<img width="1161" height="945" alt="image" src="https://github.com/user-attachments/assets/d50251d7-b9a3-4628-8a5d-a2b80e7ee0ed" />
 
 
 
