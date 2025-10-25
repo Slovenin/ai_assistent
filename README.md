@@ -3,7 +3,7 @@
 
 
 ссылка на проект-https://t.me/avtoznatok_bot
-скриншот 1 https://github.com/Slovenin/ai_assistent/blob/https/github.com/Slovenin/slovenin.github.io/upload/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2022-10-2025%20200450.jpg?raw=true
+скриншот 1 https://raw.githubusercontent.com/Slovenin/ai_assistent/646eb0c4dd4606d1416764925c924441465a6eec/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2022-10-2025%20200450.jpg
 
 
 ## Описание проекта
